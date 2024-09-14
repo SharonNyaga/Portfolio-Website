@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(188, 199, 142)
+}
+
+header {
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+h1,h2,h3 {
+    margin: 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(137, 163, 23);
+    border-radius: 5px;
+}
+
+li {
+    padding: 5px;
+}
+ form {
+    display: flex;
+    flex-direction: column ;
+ }
